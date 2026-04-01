@@ -170,6 +170,9 @@ content: >-
   </table>
 ```
 
+<img width="527" height="611" alt="image" src="https://github.com/user-attachments/assets/7f52e130-584f-4307-afb9-f467edad4739" />
+
+
 ## 🐳 Container Behavior
 
 - 🚀 Runs the scraper **once immediately** on container start
