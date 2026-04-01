@@ -1,0 +1,9 @@
+services:
+  scraper:
+    build: .
+    container_name: waste-scraper
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./debug:/app/debug
